@@ -82151,6 +82151,8 @@ prefix,service,region,networkFeatures,platform,ip_version
 165.232.144.0/20,,US-CA,,Digital Ocean,4
 165.232.160.0/20,,SG-05,,Digital Ocean,4
 165.232.176.0/20,,IN-KA,,Digital Ocean,4
+165.245.128.0/20,,US-GA,,Digital Ocean,4
+165.245.144.0/22,,SG-05,,Digital Ocean,4
 167.71.0.0/20,,NL-NH,,Digital Ocean,4
 167.71.16.0/20,,US-NJ,,Digital Ocean,4
 167.71.32.0/20,,DE-HE,,Digital Ocean,4
