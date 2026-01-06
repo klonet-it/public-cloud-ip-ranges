@@ -113718,6 +113718,8 @@ prefix,service,region,networkFeatures,platform,ip_version
 104.28.136.191/32,,IN-CH,,Icloud,4
 104.28.136.192/32,,IN-UP,,Icloud,4
 104.28.136.193/32,,IN-UP,,Icloud,4
+104.28.136.194/32,,IN,,Icloud,4
+104.28.136.195/32,,IN,,Icloud,4
 104.28.138.1/32,,AR-B,,Icloud,4
 104.28.138.2/32,,IL-M,,Icloud,4
 104.28.138.3/32,,IL-M,,Icloud,4
@@ -126171,6 +126173,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1f14:8000::/36,AMAZON,us-west-2,,AWS,6
 2600:1fbb:c000::/40,AMAZON,us-west-1,,AWS,6
 2600:1fea:1000::/40,AMAZON,ca-central-1,,AWS,6
+2600:f0f1:4380::/42,AMAZON,ap-southeast-5,,AWS,6
 2600:f0f2:7012::/48,AMAZON,us-east-1,,AWS,6
 2600:f0fb:f027::/48,AMAZON,ap-southeast-2,,AWS,6
 2606:7b40:1000:2000::/56,AMAZON,us-west-2,,AWS,6
@@ -128723,6 +128726,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1f14:8000::/36,EC2,us-west-2,,AWS,6
 2600:1fbb:c000::/40,EC2,us-west-1,,AWS,6
 2600:1fea:1000::/40,EC2,ca-central-1,,AWS,6
+2600:f0f1:4380::/42,EC2,ap-southeast-5,,AWS,6
 2600:f0f2:7012::/48,EC2,us-east-1,,AWS,6
 2600:f0fb:f027::/48,EC2,ap-southeast-2,,AWS,6
 2606:7b40:1000:2000::/56,EC2,us-west-2,,AWS,6
@@ -383427,6 +383431,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2a09:bac2:d540::/45,,SA,,Icloud,6
 2a09:bac2:d548::/45,,DZ-25,,Icloud,6
 2a09:bac2:d550::/45,,ID-JI,,Icloud,6
+2a09:bac2:d558::/45,,IN,,Icloud,6
 2a09:bac3::/45,,AD-07,,Icloud,6
 2a09:bac3:8::/45,,AE,,Icloud,6
 2a09:bac3:10::/45,,AE-AZ,,Icloud,6
@@ -390243,6 +390248,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2a09:bac3:d540::/45,,SA,,Icloud,6
 2a09:bac3:d548::/45,,DZ-25,,Icloud,6
 2a09:bac3:d550::/45,,ID-JI,,Icloud,6
+2a09:bac3:d558::/45,,IN,,Icloud,6
 2a04:4e41:003b:0000::/64,,AS,,Icloud,6
 2a04:4e41:003b:0001::/64,,CA-BC,,Icloud,6
 2a04:4e41:003b:0002::/64,,CA-AB,,Icloud,6
