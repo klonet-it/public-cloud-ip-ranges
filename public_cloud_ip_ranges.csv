@@ -1677,6 +1677,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.241.0.0/16,AMAZON,af-south-1,,AWS,4
 18.34.72.0/21,AMAZON,us-east-2,,AWS,4
 35.55.14.0/24,AMAZON,ap-south-1,,AWS,4
+35.97.16.0/20,AMAZON,GLOBAL,,AWS,4
 35.176.0.0/15,AMAZON,eu-west-2,,AWS,4
 52.93.193.195/32,AMAZON,ca-central-1,,AWS,4
 54.239.112.0/24,AMAZON,us-east-1,,AWS,4
@@ -7244,6 +7245,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.145.2.0/23,EC2,eu-central-1,,AWS,4
 18.34.72.0/21,EC2,us-east-2,,AWS,4
 35.55.14.0/24,EC2,ap-south-1,,AWS,4
+35.97.16.0/20,EC2,GLOBAL,,AWS,4
 35.176.0.0/15,EC2,eu-west-2,,AWS,4
 70.224.192.0/18,EC2,us-west-2,,AWS,4
 99.77.153.0/24,EC2,us-east-2,,AWS,4
@@ -10327,6 +10329,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 18.99.75.128/25,AURORA_DSQL,ap-northeast-1,,AWS,4
 18.98.132.128/25,AURORA_DSQL,ap-northeast-2,,AWS,4
 18.96.17.0/25,AURORA_DSQL,ap-northeast-3,,AWS,4
+18.99.193.0/25,AURORA_DSQL,ap-southeast-4,,AWS,4
 18.96.39.128/25,AURORA_DSQL,eu-central-1,,AWS,4
 18.97.198.128/25,AURORA_DSQL,eu-west-1,,AWS,4
 18.98.164.0/25,AURORA_DSQL,eu-west-2,,AWS,4
@@ -130064,6 +130067,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:da14:1713:ba00::/56,AURORA_DSQL,ap-northeast-1,,AWS,6
 2406:da12:8f1:3d00::/56,AURORA_DSQL,ap-northeast-2,,AWS,6
 2406:da16:c46:6600::/56,AURORA_DSQL,ap-northeast-3,,AWS,6
+2406:da1f:51b:1a00::/56,AURORA_DSQL,ap-southeast-4,,AWS,6
 2a05:d014:15a0:7500::/56,AURORA_DSQL,eu-central-1,,AWS,6
 2a05:d018:b3d:8200::/56,AURORA_DSQL,eu-west-1,,AWS,6
 2a05:d01c:d06:1800::/56,AURORA_DSQL,eu-west-2,,AWS,6
