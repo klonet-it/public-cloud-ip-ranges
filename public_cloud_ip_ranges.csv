@@ -4431,6 +4431,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 16.12.3.0/24,AMAZON,ap-south-1,,AWS,4
 16.60.0.0/16,AMAZON,eu-west-2,,AWS,4
 18.246.0.0/16,AMAZON,us-west-2,,AWS,4
+35.34.101.0/24,AMAZON,us-west-1,,AWS,4
 52.93.127.160/32,AMAZON,sa-east-1,,AWS,4
 52.93.133.127/32,AMAZON,eu-south-1,,AWS,4
 52.93.178.232/32,AMAZON,us-west-1,,AWS,4
@@ -4624,6 +4625,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 54.222.65.0/24,AMAZON,cn-north-1,,AWS,4
 54.240.236.66/32,AMAZON,eu-south-1,,AWS,4
 56.68.0.0/17,AMAZON,ap-southeast-5,,AWS,4
+69.107.11.248/29,AMAZON,us-west-1,,AWS,4
 99.77.32.0/20,AMAZON,eu-south-2,,AWS,4
 99.77.154.0/24,AMAZON,us-west-1,,AWS,4
 99.77.245.0/24,AMAZON,eu-south-1,,AWS,4
@@ -4898,6 +4900,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 52.95.80.0/20,AMAZON,ap-south-1,,AWS,4
 52.219.132.0/22,AMAZON,ap-southeast-1,,AWS,4
 54.33.0.0/16,AMAZON,ap-northeast-2,,AWS,4
+69.107.11.240/29,AMAZON,us-west-1,,AWS,4
 150.222.55.64/27,AMAZON,me-west-1,,AWS,4
 150.222.144.36/32,AMAZON,eu-central-1,,AWS,4
 150.222.160.39/32,AMAZON,eu-west-1,,AWS,4
@@ -5895,6 +5898,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 161.189.66.192/26,AMAZON,cn-northwest-1,,AWS,4
 43.192.156.0/23,AMAZON,cn-northwest-1,,AWS,4
 43.192.160.0/22,AMAZON,cn-northwest-1,,AWS,4
+43.192.202.0/24,AMAZON,cn-northwest-1,,AWS,4
 52.82.92.0/23,AMAZON,cn-northwest-1,,AWS,4
 52.83.26.0/26,AMAZON,cn-northwest-1,,AWS,4
 52.83.26.64/26,AMAZON,cn-northwest-1,,AWS,4
