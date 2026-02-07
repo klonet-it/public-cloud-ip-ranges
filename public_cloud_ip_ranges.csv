@@ -124965,6 +124965,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:f0f0:e18::/48,AMAZON,eu-central-1,,AWS,6
 2600:f0f0:5534::/48,AMAZON,ap-northeast-1,,AWS,6
 2620:107:4000:4701::/64,AMAZON,us-east-2,,AWS,6
+2631:0:a::/48,AMAZON,us-west-2,,AWS,6
 2a05:d074:b000::/40,AMAZON,eu-central-1,,AWS,6
 2400:6500:0:9::3/128,AMAZON,ap-southeast-3,,AWS,6
 2404:c2c0:f300::/40,AMAZON,cn-northwest-1,,AWS,6
@@ -127848,6 +127849,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:f0f0:10::/48,EC2,eu-west-1,,AWS,6
 2600:f0f0:e18::/48,EC2,eu-central-1,,AWS,6
 2600:f0f0:5534::/48,EC2,ap-northeast-1,,AWS,6
+2631:0:a::/48,EC2,us-west-2,,AWS,6
 2a05:d074:b000::/40,EC2,eu-central-1,,AWS,6
 2404:c2c0:f300::/40,EC2,cn-northwest-1,,AWS,6
 2600:f0f0:85::/48,EC2,us-west-2,,AWS,6
