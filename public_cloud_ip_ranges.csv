@@ -126557,6 +126557,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:f0f0:e0a::/48,AMAZON,us-west-2,,AWS,6
 2600:f0f0:553c::/48,AMAZON,ap-south-1,,AWS,6
 2600:f0f0:6110::/48,AMAZON,ca-central-1,,AWS,6
+2606:7b40:1b0f:500::/56,AMAZON,us-east-1,,AWS,6
 2620:107:4000:7700::/56,AMAZON,us-east-2,,AWS,6
 2620:107:4000:900c::/64,AMAZON,us-east-1,,AWS,6
 2001:3fc3:800::/40,AMAZON,eusc-de-east-1,,AWS,6
@@ -129148,6 +129149,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:f0f0:e0a::/48,EC2,us-west-2,,AWS,6
 2600:f0f0:553c::/48,EC2,ap-south-1,,AWS,6
 2600:f0f0:6110::/48,EC2,ca-central-1,,AWS,6
+2606:7b40:1b0f:500::/56,EC2,us-east-1,,AWS,6
 2001:3fc3:800::/40,EC2,eusc-de-east-1,,AWS,6
 2600:1f30:8000::/39,EC2,us-east-1,,AWS,6
 2600:1fbb:4000::/39,EC2,us-west-2,,AWS,6
