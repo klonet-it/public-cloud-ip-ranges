@@ -10394,6 +10394,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.228.126.48/30,EBS,sa-east-1,,AWS,4
 15.229.206.194/31,EBS,sa-east-1,,AWS,4
 15.229.206.196/30,EBS,sa-east-1,,AWS,4
+32.192.104.4/30,EBS,us-east-1,,AWS,4
 44.192.140.112/28,EBS,us-east-1,,AWS,4
 44.192.140.128/29,EBS,us-east-1,,AWS,4
 44.222.159.166/31,EBS,us-east-1,,AWS,4
