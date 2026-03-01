@@ -79181,6 +79181,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 143.42.45.0/24,,AU-NSW,,Linode,4
 143.42.46.0/24,,AU-NSW,,Linode,4
 143.42.47.0/24,,AU-NSW,,Linode,4
+104.66.128.0/24,,AU-NSW,,Linode,4
 139.162.65.0/24,,JP-13,,Linode,4
 139.162.66.0/24,,JP-13,,Linode,4
 139.162.67.0/24,,JP-13,,Linode,4
@@ -81818,6 +81819,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 172.239.157.0/24,,US-VA,,Linode,4
 172.239.158.0/24,,US-VA,,Linode,4
 172.239.159.0/24,,US-VA,,Linode,4
+104.105.224.0/24,,US-VA,,Linode,4
 172.235.122.0/24,,CO-DC,,Linode,4
 172.235.123.0/24,,CO-DC,,Linode,4
 172.235.124.0/24,,FR-13,,Linode,4
