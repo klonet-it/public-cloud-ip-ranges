@@ -82740,6 +82740,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 165.245.160.0/20,,US-VA,,Digital Ocean,4
 165.245.176.0/20,,SG-05,,Digital Ocean,4
 165.245.192.0/21,,US-MO,,Digital Ocean,4
+165.245.200.0/22,,NL-NH,,Digital Ocean,4
 165.245.208.0/20,,DE-HE,,Digital Ocean,4
 167.71.0.0/20,,NL-NH,,Digital Ocean,4
 167.71.16.0/20,,US-NJ,,Digital Ocean,4
