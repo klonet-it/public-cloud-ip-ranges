@@ -82201,6 +82201,8 @@ prefix,service,region,networkFeatures,platform,ip_version
 129.153.48.0/20,,,['OCI'],Oracle,4
 132.145.96.0/20,,,['OCI'],Oracle,4
 140.238.128.0/19,,,['OCI'],Oracle,4
+147.5.96.0/19,,,['OCI'],Oracle,4
+147.15.184.0/21,,,['OCI'],Oracle,4
 150.230.24.0/21,,,['OCI'],Oracle,4
 155.248.216.0/21,,,['OCI'],Oracle,4
 161.153.224.0/20,,,['OCI'],Oracle,4
@@ -82210,6 +82212,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 134.70.72.0/22,,,"['OSN', 'OBJECT_STORAGE']",Oracle,4
 140.91.28.0/23,,,['OSN'],Oracle,4
 140.204.0.128/25,,,['OSN'],Oracle,4
+147.5.28.0/22,,,['OSN'],Oracle,4
 159.112.162.0/23,,,['OSN'],Oracle,4
 159.112.168.0/22,,,['OSN'],Oracle,4
 161.153.240.0/21,,,['OSN'],Oracle,4
@@ -82231,6 +82234,28 @@ prefix,service,region,networkFeatures,platform,ip_version
 140.204.112.128/25,,,['OSN'],Oracle,4
 155.248.136.0/22,,,['OSN'],Oracle,4
 155.248.140.0/25,,,['OSN'],Oracle,4
+51.170.80.0/20,,,['OCI'],Oracle,4
+129.151.128.0/19,,,['OCI'],Oracle,4
+129.149.48.0/22,,,['OSN'],Oracle,4
+129.149.52.0/25,,,['OSN'],Oracle,4
+134.70.144.0/22,,,"['OSN', 'OBJECT_STORAGE']",Oracle,4
+140.91.64.0/23,,,['OSN'],Oracle,4
+140.204.80.128/25,,,['OSN'],Oracle,4
+141.253.216.0/21,,,['OSN'],Oracle,4
+145.241.178.0/23,,,['OSN'],Oracle,4
+207.127.72.0/22,,,['OSN'],Oracle,4
+51.170.128.0/20,,,['OCI'],Oracle,4
+51.170.152.0/21,,,['OCI'],Oracle,4
+84.8.216.0/21,,,['OCI'],Oracle,4
+84.8.192.0/26,,,['OSN'],Oracle,4
+84.8.192.128/25,,,['OSN'],Oracle,4
+84.8.193.192/26,,,['OSN'],Oracle,4
+84.8.194.0/23,,,['OSN'],Oracle,4
+84.8.196.0/22,,,['OSN'],Oracle,4
+84.8.200.0/22,,,"['OSN', 'OBJECT_STORAGE']",Oracle,4
+84.8.208.0/23,,,['OSN'],Oracle,4
+84.8.210.128/25,,,['OSN'],Oracle,4
+92.4.202.0/23,,,['OSN'],Oracle,4
 64.110.64.0/19,,,['OCI'],Oracle,4
 129.91.3.0/24,,,['OCI'],Oracle,4
 129.91.4.0/23,,,['OCI'],Oracle,4
@@ -82654,16 +82679,6 @@ prefix,service,region,networkFeatures,platform,ip_version
 140.91.70.0/23,,,['OSN'],Oracle,4
 140.204.96.128/25,,,['OSN'],Oracle,4
 158.179.196.0/24,,,['OSN'],Oracle,4
-84.8.216.0/21,,,['OCI'],Oracle,4
-84.8.192.0/26,,,['OSN'],Oracle,4
-84.8.192.128/25,,,['OSN'],Oracle,4
-84.8.193.192/26,,,['OSN'],Oracle,4
-84.8.194.0/23,,,['OSN'],Oracle,4
-84.8.196.0/22,,,['OSN'],Oracle,4
-84.8.200.0/22,,,"['OSN', 'OBJECT_STORAGE']",Oracle,4
-84.8.208.0/23,,,['OSN'],Oracle,4
-84.8.210.128/25,,,['OSN'],Oracle,4
-92.4.202.0/23,,,['OSN'],Oracle,4
 84.235.160.0/19,,,['OCI'],Oracle,4
 92.5.192.0/19,,,['OCI'],Oracle,4
 92.5.224.0/20,,,['OCI'],Oracle,4
@@ -82803,6 +82818,8 @@ prefix,service,region,networkFeatures,platform,ip_version
 129.151.96.0/19,,,['OCI'],Oracle,4
 136.248.240.0/21,,,['OCI'],Oracle,4
 144.22.32.0/19,,,['OCI'],Oracle,4
+146.181.16.0/20,,,['OCI'],Oracle,4
+146.181.32.0/19,,,['OCI'],Oracle,4
 146.235.240.0/21,,,['OCI'],Oracle,4
 148.116.112.0/22,,,['OCI'],Oracle,4
 159.112.128.0/20,,,['OCI'],Oracle,4
@@ -82941,15 +82958,6 @@ prefix,service,region,networkFeatures,platform,ip_version
 140.91.60.0/23,,,['OSN'],Oracle,4
 140.204.70.128/25,,,['OSN'],Oracle,4
 209.17.60.0/22,,,['OSN'],Oracle,4
-129.151.128.0/19,,,['OCI'],Oracle,4
-129.149.48.0/22,,,['OSN'],Oracle,4
-129.149.52.0/25,,,['OSN'],Oracle,4
-134.70.144.0/22,,,"['OSN', 'OBJECT_STORAGE']",Oracle,4
-140.91.64.0/23,,,['OSN'],Oracle,4
-140.204.80.128/25,,,['OSN'],Oracle,4
-141.253.216.0/21,,,['OSN'],Oracle,4
-145.241.178.0/23,,,['OSN'],Oracle,4
-207.127.72.0/22,,,['OSN'],Oracle,4
 129.154.48.0/20,,,['OCI'],Oracle,4
 134.185.96.0/19,,,['OCI'],Oracle,4
 138.2.112.0/20,,,['OCI'],Oracle,4
