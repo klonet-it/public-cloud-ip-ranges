@@ -9174,6 +9174,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 107.176.0.0/15,EC2,cn-north-1,,AWS,4
 175.41.192.0/18,EC2,ap-northeast-1,,AWS,4
 192.43.175.0/24,EC2,us-east-1,,AWS,4
+15.175.0.0/16,EC2,ca-central-1,,AWS,4
 52.94.250.128/28,EC2,ap-east-2,,AWS,4
 99.151.144.0/21,EC2,ap-northeast-2,,AWS,4
 100.48.0.0/12,EC2,us-east-1,,AWS,4
@@ -9224,6 +9225,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 54.79.0.0/16,EC2,ap-southeast-2,,AWS,4
 54.251.0.0/16,EC2,ap-southeast-1,,AWS,4
 3.128.0.0/15,EC2,us-east-2,,AWS,4
+15.252.0.0/16,EC2,ap-south-1,,AWS,4
 16.214.44.0/22,EC2,ap-south-2,,AWS,4
 18.254.0.0/16,EC2,us-gov-east-1,,AWS,4
 23.254.16.0/21,EC2,me-west-1,,AWS,4
