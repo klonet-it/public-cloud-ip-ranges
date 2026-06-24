@@ -8311,6 +8311,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 99.77.55.37/32,EC2,eu-south-2,,AWS,4
 99.77.55.40/32,EC2,eu-south-2,,AWS,4
 3.5.180.0/22,EC2,ap-southeast-5,,AWS,4
+40.39.0.0/16,EC2,us-gov-west-1,,AWS,4
 64.73.203.0/24,EC2,us-west-2,,AWS,4
 136.18.50.0/23,EC2,us-east-1,,AWS,4
 216.244.8.0/24,EC2,us-east-2,,AWS,4
