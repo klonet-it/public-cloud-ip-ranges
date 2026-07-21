@@ -5270,6 +5270,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 16.164.0.0/16,AMAZON,il-central-1,,AWS,4
 18.88.64.0/18,AMAZON,us-east-1,,AWS,4
 40.138.216.0/22,AMAZON,eu-south-2,,AWS,4
+45.33.182.0/24,AMAZON,eu-central-1,,AWS,4
 51.202.0.0/15,AMAZON,eu-west-2,,AWS,4
 52.88.0.0/15,AMAZON,us-west-2,,AWS,4
 52.93.32.176/32,AMAZON,eu-west-1,,AWS,4
