@@ -1042,6 +1042,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 3.108.0.0/14,AMAZON,ap-south-1,,AWS,4
 15.181.232.0/21,AMAZON,us-east-1,,AWS,4
 15.230.39.208/31,AMAZON,us-east-2,,AWS,4
+15.248.167.20/32,AMAZON,us-south-1,,AWS,4
 16.12.80.0/24,AMAZON,ap-east-2,,AWS,4
 18.99.176.0/20,AMAZON,ap-east-1,,AWS,4
 35.50.192.0/24,AMAZON,eu-central-1,,AWS,4
@@ -1212,6 +1213,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 13.248.72.0/24,AMAZON,il-central-1,,AWS,4
 15.230.4.129/32,AMAZON,ap-southeast-1,,AWS,4
 15.230.39.196/31,AMAZON,us-east-2,,AWS,4
+15.248.165.5/32,AMAZON,us-east-2,,AWS,4
 15.251.0.9/32,AMAZON,ap-southeast-2,,AWS,4
 35.71.99.0/24,AMAZON,me-south-1,,AWS,4
 51.46.0.0/15,AMAZON,eu-west-3,,AWS,4
@@ -1253,6 +1255,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.220.222.0/23,AMAZON,us-east-1,,AWS,4
 15.230.67.64/26,AMAZON,us-west-1,,AWS,4
 15.230.212.0/23,AMAZON,ap-southeast-2,,AWS,4
+15.248.167.21/32,AMAZON,us-south-1,,AWS,4
 16.22.0.0/16,AMAZON,eu-south-1,,AWS,4
 35.50.238.0/24,AMAZON,ap-northeast-2,,AWS,4
 45.33.173.0/24,AMAZON,ap-southeast-3,,AWS,4
@@ -1434,6 +1437,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.230.39.34/31,AMAZON,us-east-2,,AWS,4
 15.230.121.2/32,AMAZON,me-south-1,,AWS,4
 15.230.218.0/24,AMAZON,us-east-1,,AWS,4
+15.248.167.8/32,AMAZON,us-south-1,,AWS,4
 18.192.0.0/15,AMAZON,eu-central-1,,AWS,4
 35.71.114.0/24,AMAZON,ap-northeast-1,,AWS,4
 45.33.170.0/24,AMAZON,us-east-1,,AWS,4
@@ -1491,6 +1495,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.230.15.164/31,AMAZON,eu-central-1,,AWS,4
 15.230.15.176/31,AMAZON,eu-central-1,,AWS,4
 15.230.40.0/24,AMAZON,us-east-1,,AWS,4
+15.248.167.19/32,AMAZON,us-south-1,,AWS,4
 16.150.0.0/16,AMAZON,us-west-2,,AWS,4
 46.51.192.0/20,AMAZON,eu-west-1,,AWS,4
 52.93.115.0/24,AMAZON,ap-south-2,,AWS,4
@@ -1615,7 +1620,6 @@ prefix,service,region,networkFeatures,platform,ip_version
 54.239.1.16/28,AMAZON,eu-west-3,,AWS,4
 63.249.200.0/24,AMAZON,ap-east-2,,AWS,4
 64.73.197.0/24,AMAZON,us-west-1,,AWS,4
-83.119.64.0/18,AMAZON,eu-west-2,,AWS,4
 150.222.11.0/24,AMAZON,eu-west-1,,AWS,4
 150.222.86.0/24,AMAZON,eu-central-1,,AWS,4
 150.222.144.33/32,AMAZON,eu-central-1,,AWS,4
@@ -1780,6 +1784,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.177.105.0/24,AMAZON,ap-southeast-6,,AWS,4
 15.230.135.0/24,AMAZON,us-east-2,,AWS,4
 15.248.162.0/24,AMAZON,us-west-2,,AWS,4
+15.248.167.15/32,AMAZON,us-south-1,,AWS,4
 16.12.96.0/21,AMAZON,us-west-2,,AWS,4
 23.228.219.0/24,AMAZON,us-west-1,,AWS,4
 23.228.244.0/24,AMAZON,GLOBAL,,AWS,4
@@ -2037,6 +2042,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 3.5.196.0/22,AMAZON,ap-east-2,,AWS,4
 15.230.39.194/31,AMAZON,us-east-2,,AWS,4
 15.230.152.0/24,AMAZON,ap-northeast-1,,AWS,4
+15.248.167.10/32,AMAZON,us-south-1,,AWS,4
 16.67.0.0/16,AMAZON,us-gov-east-1,,AWS,4
 32.200.0.0/13,AMAZON,us-east-1,,AWS,4
 35.50.236.0/24,AMAZON,ap-southeast-1,,AWS,4
@@ -2309,6 +2315,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.220.184.0/21,AMAZON,us-east-1,,AWS,4
 15.230.39.4/31,AMAZON,us-east-2,,AWS,4
 15.230.39.30/31,AMAZON,us-east-2,,AWS,4
+15.248.167.6/32,AMAZON,us-south-1,,AWS,4
 15.251.0.28/32,AMAZON,il-central-1,,AWS,4
 18.184.0.0/15,AMAZON,eu-central-1,,AWS,4
 23.228.213.0/24,AMAZON,GLOBAL,,AWS,4
@@ -3064,6 +3071,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.181.0.0/20,AMAZON,us-west-2,,AWS,4
 15.230.15.64/31,AMAZON,eu-central-1,,AWS,4
 15.230.164.0/24,AMAZON,ap-southeast-1,,AWS,4
+15.248.167.9/32,AMAZON,us-south-1,,AWS,4
 16.12.36.0/22,AMAZON,ap-south-1,,AWS,4
 16.209.0.0/16,AMAZON,ap-northeast-3,,AWS,4
 18.98.160.0/19,AMAZON,eu-west-2,,AWS,4
@@ -3232,6 +3240,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.230.48.0/24,AMAZON,us-east-1,,AWS,4
 15.230.70.64/26,AMAZON,ap-south-1,,AWS,4
 15.230.223.4/31,AMAZON,eu-west-1,,AWS,4
+15.248.167.1/32,AMAZON,us-south-1,,AWS,4
 51.0.0.0/20,AMAZON,eusc-de-east-1,,AWS,4
 52.93.119.144/30,AMAZON,us-east-1,,AWS,4
 52.93.127.161/32,AMAZON,sa-east-1,,AWS,4
@@ -3358,6 +3367,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.230.189.0/25,AMAZON,eu-west-1,,AWS,4
 15.230.250.0/24,AMAZON,sa-east-1,,AWS,4
 16.207.0.0/16,AMAZON,ap-northeast-2,,AWS,4
+23.228.246.0/24,AMAZON,GLOBAL,,AWS,4
 46.51.216.0/21,AMAZON,ap-southeast-1,,AWS,4
 52.93.127.97/32,AMAZON,cn-northwest-1,,AWS,4
 52.93.127.253/32,AMAZON,ap-northeast-1,,AWS,4
@@ -3378,6 +3388,8 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.230.140.0/24,AMAZON,us-east-2,,AWS,4
 15.248.152.0/21,AMAZON,me-west-1,,AWS,4
 15.248.164.0/24,AMAZON,us-east-1,,AWS,4
+15.248.167.3/32,AMAZON,us-south-1,,AWS,4
+15.248.167.14/32,AMAZON,us-south-1,,AWS,4
 15.251.0.33/32,AMAZON,ap-northeast-2,,AWS,4
 24.110.0.0/21,AMAZON,GLOBAL,,AWS,4
 35.71.126.0/24,AMAZON,ap-southeast-7,,AWS,4
@@ -3518,6 +3530,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.230.39.38/31,AMAZON,us-east-2,,AWS,4
 15.230.39.168/31,AMAZON,us-east-2,,AWS,4
 15.230.39.204/31,AMAZON,us-east-2,,AWS,4
+15.248.167.0/32,AMAZON,us-south-1,,AWS,4
 18.97.128.0/18,AMAZON,us-east-2,,AWS,4
 52.93.86.196/32,AMAZON,us-east-1,,AWS,4
 52.93.127.197/32,AMAZON,ca-central-1,,AWS,4
@@ -3685,6 +3698,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 162.213.234.0/23,AMAZON,eu-west-1,,AWS,4
 15.220.136.0/21,AMAZON,ap-south-1,,AWS,4
 15.248.80.0/20,AMAZON,us-west-2,,AWS,4
+15.248.167.16/32,AMAZON,us-south-1,,AWS,4
 18.34.244.0/22,AMAZON,us-west-2,,AWS,4
 18.201.0.0/16,AMAZON,eu-west-1,,AWS,4
 52.93.84.167/32,AMAZON,us-east-1,,AWS,4
@@ -3741,6 +3755,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.230.39.182/31,AMAZON,us-east-2,,AWS,4
 15.230.39.230/31,AMAZON,us-east-2,,AWS,4
 15.248.64.0/21,AMAZON,ca-west-1,,AWS,4
+15.248.167.5/32,AMAZON,us-south-1,,AWS,4
 52.64.0.0/17,AMAZON,ap-southeast-2,,AWS,4
 52.93.70.128/25,AMAZON,us-west-1,,AWS,4
 52.93.71.41/32,AMAZON,eu-west-1,,AWS,4
@@ -3842,6 +3857,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 161.188.0.0/20,AMAZON,us-east-1,,AWS,4
 13.162.0.0/16,AMAZON,ap-south-1,,AWS,4
 15.230.240.0/24,AMAZON,us-west-2,,AWS,4
+15.248.167.13/32,AMAZON,us-south-1,,AWS,4
 18.182.0.0/16,AMAZON,ap-northeast-1,,AWS,4
 43.218.0.0/16,AMAZON,ap-southeast-3,,AWS,4
 51.0.29.128/28,AMAZON,eusc-de-east-1,,AWS,4
@@ -4260,6 +4276,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 150.222.25.34/32,AMAZON,us-east-1,,AWS,4
 3.4.12.40/32,AMAZON,us-east-1,,AWS,4
 3.4.12.71/32,AMAZON,ap-northeast-2,,AWS,4
+15.248.167.12/32,AMAZON,us-south-1,,AWS,4
 35.50.224.0/24,AMAZON,ap-northeast-1,,AWS,4
 51.0.96.0/21,AMAZON,eu-west-3,,AWS,4
 52.93.34.128/25,AMAZON,us-east-1,,AWS,4
@@ -4359,6 +4376,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 16.112.0.0/16,AMAZON,ap-south-2,,AWS,4
 18.96.224.0/19,AMAZON,ap-south-1,,AWS,4
 18.98.224.0/19,AMAZON,eu-central-2,,AWS,4
+23.228.247.0/24,AMAZON,GLOBAL,,AWS,4
 31.220.252.0/24,AMAZON,us-gov-east-1,,AWS,4
 52.93.193.202/32,AMAZON,ca-central-1,,AWS,4
 52.95.142.0/23,AMAZON,eu-west-2,,AWS,4
@@ -4383,6 +4401,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.230.144.0/24,AMAZON,eu-central-1,,AWS,4
 15.230.157.0/24,AMAZON,us-east-1,,AWS,4
 15.230.181.0/24,AMAZON,ap-northeast-3,,AWS,4
+15.248.167.18/32,AMAZON,us-south-1,,AWS,4
 16.28.0.0/16,AMAZON,af-south-1,,AWS,4
 35.54.56.0/24,AMAZON,ap-south-2,,AWS,4
 35.71.111.0/24,AMAZON,eu-west-2,,AWS,4
@@ -4748,6 +4767,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 13.58.0.0/15,AMAZON,us-east-2,,AWS,4
 13.128.0.0/16,AMAZON,us-east-1,,AWS,4
 15.230.216.10/32,AMAZON,us-east-1,,AWS,4
+15.248.167.23/32,AMAZON,us-south-1,,AWS,4
 16.189.0.0/16,AMAZON,eu-west-1,,AWS,4
 35.55.22.0/24,AMAZON,eu-west-3,,AWS,4
 51.74.128.0/18,AMAZON,eusc-de-east-1,,AWS,4
@@ -4761,6 +4781,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 69.107.7.96/29,AMAZON,us-east-1,,AWS,4
 76.223.170.0/28,AMAZON,ca-west-1,,AWS,4
 150.222.102.0/24,AMAZON,us-west-2,,AWS,4
+1.178.86.0/24,AMAZON,ap-southeast-3,,AWS,4
 1.178.172.0/23,AMAZON,GLOBAL,,AWS,4
 3.4.12.2/32,AMAZON,ap-southeast-2,,AWS,4
 3.4.12.5/32,AMAZON,us-east-1,,AWS,4
@@ -5036,6 +5057,8 @@ prefix,service,region,networkFeatures,platform,ip_version
 3.16.0.0/14,AMAZON,us-east-2,,AWS,4
 15.230.0.8/31,AMAZON,sa-east-1,,AWS,4
 15.230.39.164/31,AMAZON,us-east-2,,AWS,4
+15.248.167.11/32,AMAZON,us-south-1,,AWS,4
+15.248.167.17/32,AMAZON,us-south-1,,AWS,4
 15.251.0.6/32,AMAZON,us-west-1,,AWS,4
 16.79.0.0/16,AMAZON,ap-southeast-3,,AWS,4
 16.188.0.0/16,AMAZON,eu-west-1,,AWS,4
@@ -5252,6 +5275,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 150.222.234.103/32,AMAZON,us-west-1,,AWS,4
 3.4.15.64/29,AMAZON,ap-northeast-1,,AWS,4
 15.230.136.0/24,AMAZON,eu-north-1,,AWS,4
+15.248.167.7/32,AMAZON,us-south-1,,AWS,4
 16.12.84.0/23,AMAZON,me-west-1,,AWS,4
 35.50.142.0/24,AMAZON,us-east-2,,AWS,4
 52.93.86.161/32,AMAZON,us-east-1,,AWS,4
@@ -5471,6 +5495,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.220.234.0/23,AMAZON,us-east-1,,AWS,4
 15.230.74.0/26,AMAZON,ap-east-1,,AWS,4
 15.230.117.0/31,AMAZON,eu-west-1,,AWS,4
+15.248.165.4/32,AMAZON,us-east-2,,AWS,4
 16.15.16.0/22,AMAZON,me-west-1,,AWS,4
 18.176.0.0/15,AMAZON,ap-northeast-1,,AWS,4
 52.93.37.0/24,AMAZON,us-east-1,,AWS,4
@@ -5693,6 +5718,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 150.222.52.128/27,AMAZON,ca-west-1,,AWS,4
 15.164.0.0/15,AMAZON,ap-northeast-2,,AWS,4
 15.230.150.0/23,AMAZON,eu-west-1,,AWS,4
+15.248.167.22/32,AMAZON,us-south-1,,AWS,4
 15.251.0.1/32,AMAZON,us-west-1,,AWS,4
 16.15.160.0/22,AMAZON,us-east-1,,AWS,4
 16.66.0.0/16,AMAZON,us-gov-east-1,,AWS,4
@@ -6268,6 +6294,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.190.48.0/20,AMAZON,ca-west-1,,AWS,4
 15.197.20.0/22,AMAZON,GLOBAL,,AWS,4
 15.230.104.0/24,AMAZON,ap-south-1,,AWS,4
+15.248.167.4/32,AMAZON,us-south-1,,AWS,4
 35.71.105.0/24,AMAZON,eu-central-1,,AWS,4
 52.28.0.0/16,AMAZON,eu-central-1,,AWS,4
 52.46.166.0/23,AMAZON,GLOBAL,,AWS,4
@@ -6308,6 +6335,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.145.8.0/22,AMAZON,eu-central-1,,AWS,4
 15.220.112.0/21,AMAZON,sa-east-1,,AWS,4
 15.230.199.0/28,AMAZON,us-east-2,,AWS,4
+15.248.167.2/32,AMAZON,us-south-1,,AWS,4
 43.250.193.0/24,AMAZON,ap-southeast-1,,AWS,4
 45.33.167.0/24,AMAZON,us-east-1,,AWS,4
 52.77.0.0/16,AMAZON,ap-southeast-1,,AWS,4
@@ -6839,6 +6867,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 3.10.201.192/26,AMAZON,eu-west-2,,AWS,4
 3.8.168.0/23,AMAZON,eu-west-2,,AWS,4
 51.24.128.0/23,AMAZON,eu-west-2,,AWS,4
+51.24.162.0/23,AMAZON,eu-west-2,,AWS,4
 13.37.1.64/26,AMAZON,eu-west-3,,AWS,4
 13.38.202.64/26,AMAZON,eu-west-3,,AWS,4
 13.39.220.0/22,AMAZON,eu-west-3,,AWS,4
@@ -7914,7 +7943,6 @@ prefix,service,region,networkFeatures,platform,ip_version
 54.200.0.0/15,EC2,us-west-2,,AWS,4
 63.249.200.0/24,EC2,ap-east-2,,AWS,4
 64.73.197.0/24,EC2,us-west-1,,AWS,4
-83.119.64.0/18,EC2,eu-west-2,,AWS,4
 3.5.36.0/22,EC2,ap-southeast-3,,AWS,4
 5.60.32.0/20,EC2,ap-southeast-6,,AWS,4
 16.19.0.0/16,EC2,eu-central-2,,AWS,4
@@ -9033,6 +9061,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 51.74.128.0/18,EC2,eusc-de-east-1,,AWS,4
 54.194.0.0/15,EC2,eu-west-1,,AWS,4
 63.249.192.0/24,EC2,ap-southeast-1,,AWS,4
+1.178.86.0/24,EC2,ap-southeast-3,,AWS,4
 15.129.80.0/22,EC2,eu-west-1,,AWS,4
 35.50.232.0/24,EC2,ap-south-1,,AWS,4
 45.57.128.0/18,EC2,ap-southeast-1,,AWS,4
@@ -9678,6 +9707,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 23.91.0.0/19,CLOUDFRONT,GLOBAL,,AWS,4
 52.222.128.0/17,CLOUDFRONT,GLOBAL,,AWS,4
 18.164.0.0/15,CLOUDFRONT,GLOBAL,,AWS,4
+23.228.246.0/24,CLOUDFRONT,GLOBAL,,AWS,4
 111.13.185.32/27,CLOUDFRONT,GLOBAL,,AWS,4
 64.252.128.0/18,CLOUDFRONT,GLOBAL,,AWS,4
 205.251.254.0/24,CLOUDFRONT,GLOBAL,,AWS,4
@@ -9701,6 +9731,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 52.82.128.0/19,CLOUDFRONT,GLOBAL,,AWS,4
 54.230.0.0/17,CLOUDFRONT,GLOBAL,,AWS,4
 54.230.128.0/18,CLOUDFRONT,GLOBAL,,AWS,4
+23.228.247.0/24,CLOUDFRONT,GLOBAL,,AWS,4
 54.239.128.0/18,CLOUDFRONT,GLOBAL,,AWS,4
 130.176.224.0/20,CLOUDFRONT,GLOBAL,,AWS,4
 36.103.232.128/26,CLOUDFRONT,GLOBAL,,AWS,4
@@ -84000,6 +84031,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 192.29.24.0/21,,,['OSN'],Oracle,4
 64.110.96.0/20,,,['OCI'],Oracle,4
 64.110.112.0/21,,,['OCI'],Oracle,4
+129.225.128.0/17,,,['OCI'],Oracle,4
 138.2.32.0/19,,,['OCI'],Oracle,4
 140.83.48.0/20,,,['OCI'],Oracle,4
 140.83.80.0/21,,,['OCI'],Oracle,4
@@ -84229,6 +84261,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 158.179.8.0/22,,,['OSN'],Oracle,4
 79.72.64.0/19,,,['OCI'],Oracle,4
 84.8.144.0/20,,,['OCI'],Oracle,4
+88.96.64.0/18,,,['OCI'],Oracle,4
 129.156.0.0/20,,,['OCI'],Oracle,4
 130.110.32.0/19,,,['OCI'],Oracle,4
 130.162.160.0/19,,,['OCI'],Oracle,4
@@ -84345,7 +84378,9 @@ prefix,service,region,networkFeatures,platform,ip_version
 92.4.64.0/19,,,['OCI'],Oracle,4
 129.151.40.0/21,,,['OCI'],Oracle,4
 129.154.224.0/19,,,['OCI'],Oracle,4
+130.210.0.0/17,,,['OCI'],Oracle,4
 132.226.184.0/21,,,['OCI'],Oracle,4
+137.23.32.0/19,,,['OCI'],Oracle,4
 140.238.160.0/21,,,['OCI'],Oracle,4
 140.238.224.0/21,,,['OCI'],Oracle,4
 140.238.232.0/22,,,['OCI'],Oracle,4
@@ -84716,6 +84751,18 @@ prefix,service,region,networkFeatures,platform,ip_version
 140.91.58.0/23,,,['OSN'],Oracle,4
 140.204.52.128/25,,,['OSN'],Oracle,4
 146.56.120.0/22,,,['OSN'],Oracle,4
+129.225.0.0/20,,,['OCI'],Oracle,4
+129.225.32.0/19,,,['OCI'],Oracle,4
+168.110.192.0/19,,,['OCI'],Oracle,4
+134.70.210.0/23,,,"['OSN', 'OBJECT_STORAGE']",Oracle,4
+134.70.212.0/23,,,"['OSN', 'OBJECT_STORAGE']",Oracle,4
+140.91.98.0/23,,,['OSN'],Oracle,4
+140.204.146.128/25,,,['OSN'],Oracle,4
+168.110.248.0/26,,,['OSN'],Oracle,4
+168.110.248.128/25,,,['OSN'],Oracle,4
+168.110.249.192/26,,,['OSN'],Oracle,4
+168.110.250.0/23,,,['OSN'],Oracle,4
+168.110.252.0/22,,,['OSN'],Oracle,4
 130.162.192.0/21,,,['OCI'],Oracle,4
 152.69.176.0/20,,,['OCI'],Oracle,4
 152.70.224.0/22,,,['OCI'],Oracle,4
@@ -84869,6 +84916,15 @@ prefix,service,region,networkFeatures,platform,ip_version
 165.1.112.0/23,,,['OSN'],Oracle,4
 165.1.114.128/25,,,['OSN'],Oracle,4
 168.129.180.0/23,,,['OSN'],Oracle,4
+148.116.0.0/19,,,['OCI'],Oracle,4
+148.116.32.0/26,,,['OSN'],Oracle,4
+148.116.32.128/25,,,['OSN'],Oracle,4
+148.116.33.192/26,,,['OSN'],Oracle,4
+148.116.34.0/23,,,['OSN'],Oracle,4
+148.116.36.0/22,,,['OSN'],Oracle,4
+148.116.40.0/22,,,"['OSN', 'OBJECT_STORAGE']",Oracle,4
+148.116.44.128/25,,,['OSN'],Oracle,4
+148.116.48.0/23,,,['OSN'],Oracle,4
 149.130.160.0/19,,,['OCI'],Oracle,4
 157.137.192.0/19,,,['OCI'],Oracle,4
 157.137.224.0/20,,,['OCI'],Oracle,4
@@ -84906,16 +84962,6 @@ prefix,service,region,networkFeatures,platform,ip_version
 168.107.249.192/26,,,['OSN'],Oracle,4
 168.107.250.0/23,,,['OSN'],Oracle,4
 168.107.252.0/22,,,['OSN'],Oracle,4
-168.110.192.0/19,,,['OCI'],Oracle,4
-134.70.210.0/23,,,"['OSN', 'OBJECT_STORAGE']",Oracle,4
-134.70.212.0/23,,,"['OSN', 'OBJECT_STORAGE']",Oracle,4
-140.91.98.0/23,,,['OSN'],Oracle,4
-140.204.146.128/25,,,['OSN'],Oracle,4
-168.110.248.0/26,,,['OSN'],Oracle,4
-168.110.248.128/25,,,['OSN'],Oracle,4
-168.110.249.192/26,,,['OSN'],Oracle,4
-168.110.250.0/23,,,['OSN'],Oracle,4
-168.110.252.0/22,,,['OSN'],Oracle,4
 168.129.128.0/19,,,['OCI'],Oracle,4
 168.129.184.0/26,,,['OSN'],Oracle,4
 168.129.184.128/25,,,['OSN'],Oracle,4
@@ -84981,8 +85027,6 @@ prefix,service,region,networkFeatures,platform,ip_version
 192.22.232.0/22,,,"['OSN', 'OBJECT_STORAGE']",Oracle,4
 192.22.236.128/25,,,['OSN'],Oracle,4
 192.22.240.0/23,,,['OSN'],Oracle,4
-81.208.192.0/19,,,['OCI'],Oracle,4
-207.127.82.0/23,,,['OCI'],Oracle,4
 130.110.31.0/24,,,['OSN'],Oracle,4
 164.152.96.0/22,,,['OSN'],Oracle,4
 207.127.66.128/25,,,['OSN'],Oracle,4
@@ -115407,6 +115451,8 @@ prefix,service,region,networkFeatures,platform,ip_version
 104.28.137.161/32,,US-VA,,Icloud,4
 104.28.137.162/32,,US-VA,,Icloud,4
 104.28.137.163/32,,US-VA,,Icloud,4
+104.28.137.164/32,,PR,,Icloud,4
+104.28.137.165/32,,KZ,,Icloud,4
 104.28.138.1/32,,AR-B,,Icloud,4
 104.28.138.2/32,,IL-M,,Icloud,4
 104.28.138.3/32,,IL-M,,Icloud,4
@@ -127543,6 +127589,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:dab9:800::/40,AMAZON,ap-southeast-5,,AWS,6
 2406:dafe:4000::/40,AMAZON,ap-northeast-1,,AWS,6
 2600:1f01:4902:2::/65,AMAZON,eu-central-1,,AWS,6
+2600:1f01:494a::/47,AMAZON,eu-west-1,,AWS,6
 2600:1f70:1000::/40,AMAZON,ca-central-1,,AWS,6
 2600:f0f0:cfb::/48,AMAZON,us-east-2,,AWS,6
 2600:f0f0:553f::/48,AMAZON,ap-southeast-1,,AWS,6
@@ -127900,6 +127947,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:da60:1000::/40,AMAZON,af-south-1,,AWS,6
 2406:daa0:800::/40,AMAZON,ap-southeast-5,,AWS,6
 2600:f0f0:5504::/46,AMAZON,GLOBAL,,AWS,6
+2606:7b40:1000:6220::/60,AMAZON,us-east-2,,AWS,6
 2606:7b40:10ff:d250::/60,AMAZON,us-west-2,,AWS,6
 2606:7b40:1b07::/56,AMAZON,ap-southeast-1,,AWS,6
 2620:107:4000:a900::/58,AMAZON,ap-southeast-3,,AWS,6
@@ -131239,6 +131287,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:da36:a000::/40,EC2,ap-south-1,,AWS,6
 2406:da36:c800::/40,EC2,ap-east-2,,AWS,6
 2406:da60:1000::/40,EC2,af-south-1,,AWS,6
+2606:7b40:1000:6220::/60,EC2,us-east-2,,AWS,6
 2606:7b40:10ff:d250::/60,EC2,us-west-2,,AWS,6
 2606:7b40:1b07::/56,EC2,ap-southeast-1,,AWS,6
 2a05:d033:2000::/40,EC2,eu-west-3,,AWS,6
