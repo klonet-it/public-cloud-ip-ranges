@@ -4785,7 +4785,6 @@ prefix,service,region,networkFeatures,platform,ip_version
 69.107.7.96/29,AMAZON,us-east-1,,AWS,4
 76.223.170.0/28,AMAZON,ca-west-1,,AWS,4
 150.222.102.0/24,AMAZON,us-west-2,,AWS,4
-1.178.86.0/24,AMAZON,ap-southeast-3,,AWS,4
 1.178.172.0/23,AMAZON,GLOBAL,,AWS,4
 3.4.12.2/32,AMAZON,ap-southeast-2,,AWS,4
 3.4.12.5/32,AMAZON,us-east-1,,AWS,4
@@ -9089,7 +9088,6 @@ prefix,service,region,networkFeatures,platform,ip_version
 51.74.128.0/18,EC2,eusc-de-east-1,,AWS,4
 54.194.0.0/15,EC2,eu-west-1,,AWS,4
 63.249.192.0/24,EC2,ap-southeast-1,,AWS,4
-1.178.86.0/24,EC2,ap-southeast-3,,AWS,4
 15.129.80.0/22,EC2,eu-west-1,,AWS,4
 35.50.232.0/24,EC2,ap-south-1,,AWS,4
 45.57.128.0/18,EC2,ap-southeast-1,,AWS,4
@@ -115699,6 +115697,14 @@ prefix,service,region,networkFeatures,platform,ip_version
 104.28.137.187/32,,IN-RJ,,Icloud,4
 104.28.137.188/32,,NL-NH,,Icloud,4
 104.28.137.189/32,,NL-NH,,Icloud,4
+104.28.137.190/32,,US-AZ,,Icloud,4
+104.28.137.191/32,,TJ-DU,,Icloud,4
+104.28.137.192/32,,US-KS,,Icloud,4
+104.28.137.193/32,,ID,,Icloud,4
+104.28.137.194/32,,IN-PB,,Icloud,4
+104.28.137.195/32,,IN-PB,,Icloud,4
+104.28.137.196/32,,IN-PB,,Icloud,4
+104.28.137.197/32,,SE-AB,,Icloud,4
 104.28.138.1/32,,AR-B,,Icloud,4
 104.28.138.2/32,,IL-M,,Icloud,4
 104.28.138.3/32,,IL-M,,Icloud,4
