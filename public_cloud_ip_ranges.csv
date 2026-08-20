@@ -3136,6 +3136,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 52.93.178.192/32,AMAZON,us-west-1,,AWS,4
 52.94.10.0/24,AMAZON,us-west-2,,AWS,4
 99.82.170.0/24,AMAZON,ap-northeast-1,,AWS,4
+104.255.56.72/32,AMAZON,us-east-1,,AWS,4
 13.248.122.0/24,AMAZON,eu-north-1,,AWS,4
 15.248.36.0/22,AMAZON,ap-northeast-2,,AWS,4
 52.93.52.165/32,AMAZON,us-west-1,,AWS,4
@@ -4324,6 +4325,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 54.240.236.57/32,AMAZON,eu-south-1,,AWS,4
 64.66.142.0/24,AMAZON,ap-southeast-4,,AWS,4
 64.73.216.0/24,AMAZON,ap-south-1,,AWS,4
+104.255.56.71/32,AMAZON,us-east-1,,AWS,4
 104.255.59.131/32,AMAZON,ap-southeast-4,,AWS,4
 150.222.234.114/31,AMAZON,us-west-1,,AWS,4
 3.4.13.48/28,AMAZON,eu-west-1,,AWS,4
@@ -6591,6 +6593,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 43.213.135.0/24,AMAZON,ap-east-2,,AWS,4
 43.213.154.0/24,AMAZON,ap-east-2,,AWS,4
 43.213.168.0/23,AMAZON,ap-east-2,,AWS,4
+54.54.48.0/23,AMAZON,ap-east-2,,AWS,4
 13.193.210.0/23,AMAZON,ap-northeast-1,,AWS,4
 18.177.156.192/26,AMAZON,ap-northeast-1,,AWS,4
 18.181.204.128/26,AMAZON,ap-northeast-1,,AWS,4
@@ -11142,6 +11145,8 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.228.126.48/30,EBS,sa-east-1,,AWS,4
 15.229.206.194/31,EBS,sa-east-1,,AWS,4
 15.229.206.196/30,EBS,sa-east-1,,AWS,4
+100.29.192.216/30,EBS,us-east-1,,AWS,4
+100.29.192.220/30,EBS,us-east-1,,AWS,4
 32.192.104.4/30,EBS,us-east-1,,AWS,4
 44.192.140.112/28,EBS,us-east-1,,AWS,4
 44.192.140.128/29,EBS,us-east-1,,AWS,4
@@ -11163,7 +11168,9 @@ prefix,service,region,networkFeatures,platform,ip_version
 43.196.168.0/25,EFS,cn-north-1,,AWS,4
 43.192.222.0/25,EFS,cn-northwest-1,,AWS,4
 16.65.98.128/25,EFS,us-gov-east-1,,AWS,4
+16.66.4.0/22,EFS,us-gov-east-1,,AWS,4
 40.38.87.128/25,EFS,us-gov-west-1,,AWS,4
+40.39.44.0/22,EFS,us-gov-west-1,,AWS,4
 15.240.196.0/22,EFS,af-south-1,,AWS,4
 95.40.214.128/25,EFS,ap-east-1,,AWS,4
 95.41.76.0/22,EFS,ap-east-1,,AWS,4
@@ -133313,7 +133320,9 @@ prefix,service,region,networkFeatures,platform,ip_version
 2400:7fc0:86dd:2300::/56,EFS,cn-north-1,,AWS,6
 2404:c2c0:8b03:e600::/56,EFS,cn-northwest-1,,AWS,6
 2600:1f15:46b:6e00::/56,EFS,us-gov-east-1,,AWS,6
+2600:1f15:563:5d00::/56,EFS,us-gov-east-1,,AWS,6
 2600:1f12:824:e00::/56,EFS,us-gov-west-1,,AWS,6
+2600:1f12:ece:5300::/56,EFS,us-gov-west-1,,AWS,6
 2406:da11:6ba:7e00::/56,EFS,af-south-1,,AWS,6
 2406:da1e:32b:4500::/56,EFS,ap-east-1,,AWS,6
 2406:da1e:5ac:e700::/56,EFS,ap-east-1,,AWS,6
