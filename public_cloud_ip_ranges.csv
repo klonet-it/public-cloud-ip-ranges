@@ -4791,6 +4791,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 69.107.7.96/29,AMAZON,us-east-1,,AWS,4
 76.223.170.0/28,AMAZON,ca-west-1,,AWS,4
 150.222.102.0/24,AMAZON,us-west-2,,AWS,4
+1.178.86.0/24,AMAZON,ap-southeast-3,,AWS,4
 1.178.172.0/23,AMAZON,GLOBAL,,AWS,4
 3.4.12.2/32,AMAZON,ap-southeast-2,,AWS,4
 3.4.12.5/32,AMAZON,us-east-1,,AWS,4
@@ -9098,6 +9099,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 51.74.128.0/18,EC2,eusc-de-east-1,,AWS,4
 54.194.0.0/15,EC2,eu-west-1,,AWS,4
 63.249.192.0/24,EC2,ap-southeast-1,,AWS,4
+1.178.86.0/24,EC2,ap-southeast-3,,AWS,4
 15.129.80.0/22,EC2,eu-west-1,,AWS,4
 35.50.232.0/24,EC2,ap-south-1,,AWS,4
 45.57.128.0/18,EC2,ap-southeast-1,,AWS,4
@@ -115725,6 +115727,15 @@ prefix,service,region,networkFeatures,platform,ip_version
 104.28.137.195/32,,IN-PB,,Icloud,4
 104.28.137.196/32,,IN-PB,,Icloud,4
 104.28.137.197/32,,SE-AB,,Icloud,4
+104.28.137.198/32,,TH,,Icloud,4
+104.28.137.199/32,,TH,,Icloud,4
+104.28.137.200/32,,TH,,Icloud,4
+104.28.137.201/32,,AU-NSW,,Icloud,4
+104.28.137.202/32,,US-OH,,Icloud,4
+104.28.137.203/32,,PK,,Icloud,4
+104.28.137.204/32,,US-TX,,Icloud,4
+104.28.137.205/32,,TH,,Icloud,4
+104.28.137.206/32,,US-TX,,Icloud,4
 104.28.138.1/32,,AR-B,,Icloud,4
 104.28.138.2/32,,IL-M,,Icloud,4
 104.28.138.3/32,,IL-M,,Icloud,4
@@ -128338,7 +128349,6 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:f0f0:e29::/48,AMAZON,ap-northeast-3,,AWS,6
 2600:f0f0:810f::/48,AMAZON,ap-southeast-2,,AWS,6
 2600:f0f0:8183::/48,AMAZON,eu-central-1,,AWS,6
-2600:f0f0:c102::/48,AMAZON,us-east-1,,AWS,6
 2600:f0f0:c112::/48,AMAZON,sa-east-1,,AWS,6
 2600:f0fb:f000::/44,AMAZON,us-gov-west-1,,AWS,6
 2606:f40:5000::/39,AMAZON,eu-west-1,,AWS,6
@@ -131796,7 +131806,6 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:f0f0:e29::/48,EC2,ap-northeast-3,,AWS,6
 2600:f0f0:810f::/48,EC2,ap-southeast-2,,AWS,6
 2600:f0f0:8183::/48,EC2,eu-central-1,,AWS,6
-2600:f0f0:c102::/48,EC2,us-east-1,,AWS,6
 2600:f0f0:c112::/48,EC2,sa-east-1,,AWS,6
 2600:f0fb:f000::/44,EC2,us-gov-west-1,,AWS,6
 2606:f40:5000::/39,EC2,eu-west-1,,AWS,6
