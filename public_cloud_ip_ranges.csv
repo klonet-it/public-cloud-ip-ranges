@@ -76,6 +76,8 @@ prefix,service,region,networkFeatures,platform,ip_version
 34.127.177.0/24,,asia-northeast2,,Google Cloud,4
 34.152.100.0/24,,asia-northeast2,,Google Cloud,4
 34.177.68.0/24,,asia-northeast2,,Google Cloud,4
+34.183.129.0/24,,asia-northeast2,,Google Cloud,4
+34.184.128.0/24,,asia-northeast2,,Google Cloud,4
 35.217.128.0/17,,asia-northeast2,,Google Cloud,4
 35.220.45.0/24,,asia-northeast2,,Google Cloud,4
 35.242.45.0/24,,asia-northeast2,,Google Cloud,4
@@ -959,7 +961,9 @@ prefix,service,region,networkFeatures,platform,ip_version
 34.118.248.0/23,,us-west2,,Google Cloud,4
 34.124.0.0/21,,us-west2,,Google Cloud,4
 34.183.83.0/24,,us-west2,,Google Cloud,4
+34.183.125.0/24,,us-west2,,Google Cloud,4
 34.184.82.0/24,,us-west2,,Google Cloud,4
+34.184.126.0/24,,us-west2,,Google Cloud,4
 34.186.128.0/18,,us-west2,,Google Cloud,4
 35.215.64.0/18,,us-west2,,Google Cloud,4
 35.220.47.0/24,,us-west2,,Google Cloud,4
@@ -989,6 +993,8 @@ prefix,service,region,networkFeatures,platform,ip_version
 34.118.240.0/22,,us-west4,,Google Cloud,4
 34.124.8.0/22,,us-west4,,Google Cloud,4
 34.125.0.0/16,,us-west4,,Google Cloud,4
+34.183.128.0/24,,us-west4,,Google Cloud,4
+34.184.127.0/24,,us-west4,,Google Cloud,4
 34.186.0.0/19,,us-west4,,Google Cloud,4
 35.219.128.0/18,,us-west4,,Google Cloud,4
 136.85.128.0/17,,us-west4,,Google Cloud,4
@@ -11103,6 +11109,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 100.62.60.0/22,EFS,us-east-1,,AWS,4
 100.62.64.0/22,EFS,us-east-1,,AWS,4
 100.62.68.0/22,EFS,us-east-1,,AWS,4
+77.112.112.0/22,EFS,us-east-2,,AWS,4
 77.112.12.0/22,EFS,us-east-2,,AWS,4
 77.112.4.0/22,EFS,us-east-2,,AWS,4
 77.112.8.0/22,EFS,us-east-2,,AWS,4
@@ -128228,6 +128235,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2a05:d036:1000::/40,AMAZON,eu-south-2,,AWS,6
 2406:da33:e000::/40,AMAZON,ap-east-1,,AWS,6
 2600:1f38:ec00::/40,AMAZON,sa-west-1,,AWS,6
+2600:1f6a:4c00::/46,AMAZON,us-east-2,,AWS,6
 2600:f0f0:5529::/48,AMAZON,eu-west-1,,AWS,6
 2600:f0f0:6102::/48,AMAZON,ap-northeast-1,,AWS,6
 2600:f0f0:c10b::/48,AMAZON,eu-west-3,,AWS,6
@@ -131686,6 +131694,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2a05:d036:1000::/40,EC2,eu-south-2,,AWS,6
 2406:da33:e000::/40,EC2,ap-east-1,,AWS,6
 2600:1f38:ec00::/40,EC2,sa-west-1,,AWS,6
+2600:1f6a:4c00::/46,EC2,us-east-2,,AWS,6
 2600:f0f0:5529::/48,EC2,eu-west-1,,AWS,6
 2600:f0f0:6102::/48,EC2,ap-northeast-1,,AWS,6
 2600:f0f0:c10b::/48,EC2,eu-west-3,,AWS,6
