@@ -3024,6 +3024,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 15.230.15.44/31,AMAZON,eu-central-1,,AWS,4
 15.230.15.172/31,AMAZON,eu-central-1,,AWS,4
 15.230.254.0/31,AMAZON,us-east-1,,AWS,4
+15.248.194.0/24,AMAZON,ca-central-1,,AWS,4
 16.168.0.0/15,AMAZON,eu-north-1,,AWS,4
 16.176.0.0/16,AMAZON,ap-southeast-2,,AWS,4
 35.55.12.0/24,AMAZON,ap-southeast-2,,AWS,4
@@ -6507,6 +6508,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 13.246.244.0/23,AMAZON,af-south-1,,AWS,4
 13.246.248.0/22,AMAZON,af-south-1,,AWS,4
 15.240.204.0/23,AMAZON,af-south-1,,AWS,4
+16.106.2.0/23,AMAZON,ap-east-1,,AWS,4
 16.163.63.64/26,AMAZON,ap-east-1,,AWS,4
 18.163.201.0/26,AMAZON,ap-east-1,,AWS,4
 18.163.66.0/23,AMAZON,ap-east-1,,AWS,4
@@ -127236,6 +127238,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 240f:80f8:4000::/40,AMAZON,cn-northwest-1,,AWS,6
 2600:9000:3000::/36,AMAZON,GLOBAL,,AWS,6
 2600:9000:f600::/39,AMAZON,GLOBAL,,AWS,6
+2600:f0f0:c00:8600::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f0:610e::/48,AMAZON,ap-southeast-1,,AWS,6
 2600:f0f0:c138::/48,AMAZON,eu-west-1,,AWS,6
 2600:f0f2:7017::/48,AMAZON,us-west-2,,AWS,6
@@ -127251,6 +127254,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1f19:8000::/36,AMAZON,us-east-1,,AWS,6
 2600:1feb:4000::/39,AMAZON,us-west-2,,AWS,6
 2600:1ff0:7400::/40,AMAZON,mx-central-1,,AWS,6
+2600:f0f0:c00:8500::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0fb:f10d::/48,AMAZON,ap-south-1,,AWS,6
 2605:b140:9803::/48,AMAZON,us-east-2,,AWS,6
 2606:7b40:1b0f:800::/56,AMAZON,us-east-1,,AWS,6
@@ -127313,6 +127317,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:daf3:4000::/40,AMAZON,ap-northeast-1,,AWS,6
 2600:1f15::/36,AMAZON,us-gov-east-1,,AWS,6
 2600:1ff9:800::/40,AMAZON,us-south-1,,AWS,6
+2600:f0f0:c01:900::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f0:6104::/48,AMAZON,us-west-2,,AWS,6
 2600:f0f1:83::/48,AMAZON,ap-northeast-3,,AWS,6
 2605:b140:9800::/48,AMAZON,us-west-1,,AWS,6
@@ -127321,6 +127326,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1f33:7400::/40,AMAZON,mx-central-1,,AWS,6
 2600:1fe8:1000::/40,AMAZON,ca-central-1,,AWS,6
 2600:1ffd:80a7::/48,AMAZON,eu-central-1,,AWS,6
+2600:f0f0:c00:900::/56,AMAZON,GLOBAL,,AWS,6
 2a05:d074:9000::/40,AMAZON,eu-central-2,,AWS,6
 2001:3fc7:1800::/40,AMAZON,eusc-de-east-1,,AWS,6
 2600:1f01:4918::/47,AMAZON,eu-south-1,,AWS,6
@@ -127451,6 +127457,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1fbb:1000::/40,AMAZON,ca-central-1,,AWS,6
 2600:9000:520b::/48,AMAZON,eu-central-1,,AWS,6
 2600:9000:520c::/48,AMAZON,eu-west-2,,AWS,6
+2600:f0f0:c00:8800::/56,AMAZON,GLOBAL,,AWS,6
 2606:7b40:10ff:60::/59,AMAZON,af-south-1,,AWS,6
 2620:107:4000:9016::/64,AMAZON,us-east-1,,AWS,6
 2a05:d033:e000::/40,AMAZON,me-south-1,,AWS,6
@@ -127507,6 +127514,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:dafe:c000::/40,AMAZON,ap-southeast-2,,AWS,6
 2600:1f01:4946::/47,AMAZON,us-east-1,,AWS,6
 2600:1f18::/33,AMAZON,us-east-1,,AWS,6
+2600:f0f0:c01:800::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f3:f010:200::/56,AMAZON,us-west-1,,AWS,6
 2606:7b40:1a49:340::/60,AMAZON,sa-east-1,,AWS,6
 2606:7b40:1b0d:c000::/56,AMAZON,eu-west-3,,AWS,6
@@ -127761,6 +127769,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:daba:2000::/40,AMAZON,ap-northeast-2,,AWS,6
 2600:1f33:5000::/40,AMAZON,us-gov-east-1,,AWS,6
 2600:f0f0:85::/48,AMAZON,us-west-2,,AWS,6
+2600:f0f0:c00:200::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0fb:f106::/48,AMAZON,ap-east-1,,AWS,6
 2606:f40:ffe8::/48,AMAZON,eu-west-2,,AWS,6
 2606:7b40:300a::/56,AMAZON,us-west-2,,AWS,6
@@ -127908,6 +127917,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:daf6:4000::/40,AMAZON,ap-northeast-1,,AWS,6
 2600:1f36:800::/40,AMAZON,us-south-1,,AWS,6
 2600:1fb9:c000::/40,AMAZON,us-west-1,,AWS,6
+2600:f0f0:c01::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f0:410c::/48,AMAZON,sa-east-1,,AWS,6
 2600:f0f0:4200::/40,AMAZON,us-east-2,,AWS,6
 2600:f0f0:8104::/48,AMAZON,ap-southeast-7,,AWS,6
@@ -128088,6 +128098,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 240f:8014::/36,AMAZON,cn-northwest-1,,AWS,6
 240f:80a0:4000::/40,AMAZON,cn-northwest-1,,AWS,6
 2600:1f00:ec00::/40,AMAZON,sa-west-1,,AWS,6
+2600:f0f0:c00:8700::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f0:1101::/48,AMAZON,ap-northeast-1,,AWS,6
 2600:f0f0:610f::/48,AMAZON,ap-southeast-2,,AWS,6
 2606:7b40:1a1f:c000::/60,AMAZON,us-west-2,,AWS,6
@@ -128097,6 +128108,8 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:dafa:2000::/40,AMAZON,ap-northeast-2,,AWS,6
 2600:1f30:6000::/40,AMAZON,us-east-2,,AWS,6
 2600:1fe9:ec00::/40,AMAZON,sa-west-1,,AWS,6
+2600:f0f0:c00:500::/56,AMAZON,GLOBAL,,AWS,6
+2600:f0f0:cf8:d00::/56,AMAZON,GLOBAL,,AWS,6
 2a05:d031:e000::/40,AMAZON,me-south-1,,AWS,6
 2a05:d078:b000::/40,AMAZON,eu-central-1,,AWS,6
 2404:c2c0:8000::/36,AMAZON,cn-northwest-1,,AWS,6
@@ -128295,6 +128308,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:dabb:7000::/40,AMAZON,me-central-1,,AWS,6
 2600:1ff2:6000::/40,AMAZON,us-east-2,,AWS,6
 2600:1ff9:2c00::/40,AMAZON,us-east-1,,AWS,6
+2600:f0f0:6127::/48,AMAZON,us-east-1,,AWS,6
 2600:f0f0:c11b::/48,AMAZON,eu-south-1,,AWS,6
 2600:f0f0:c11c::/48,AMAZON,ap-northeast-1,,AWS,6
 2600:f0f0:c123::/48,AMAZON,ap-southeast-2,,AWS,6
@@ -128410,6 +128424,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1f01:4902:3:8000::/65,AMAZON,eu-central-1,,AWS,6
 2600:1fef:2000::/40,AMAZON,us-gov-west-1,,AWS,6
 2600:f00c::/39,AMAZON,us-east-1,,AWS,6
+2600:f0f0:c01:700::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f0:e28::/48,AMAZON,ap-northeast-3,,AWS,6
 2600:f0f0:c000::/48,AMAZON,us-east-1,,AWS,6
 2a05:d031:2000::/40,AMAZON,eu-west-3,,AWS,6
@@ -128570,6 +128585,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1fb9:ec00::/40,AMAZON,sa-west-1,,AWS,6
 2600:9000:fc0::/43,AMAZON,GLOBAL,,AWS,6
 2600:9000:a400::/40,AMAZON,GLOBAL,,AWS,6
+2600:f0f0:c00::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f0:e04::/48,AMAZON,me-south-1,,AWS,6
 2600:f0f0:5522::/48,AMAZON,sa-east-1,,AWS,6
 2600:f0f0:5538::/48,AMAZON,ap-northeast-3,,AWS,6
@@ -128578,6 +128594,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2a05:d079:2000::/40,AMAZON,eu-west-3,,AWS,6
 2600:1f01:4912::/47,AMAZON,ap-south-1,,AWS,6
 2600:1f1e::/36,AMAZON,sa-east-1,,AWS,6
+2600:f0f0:c00:8200::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f2:701e::/48,AMAZON,ca-central-1,,AWS,6
 2606:f40:fff9::/48,AMAZON,eu-central-1,,AWS,6
 2606:7b40:1000:7270::/60,AMAZON,us-west-2,,AWS,6
@@ -128599,6 +128616,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1fe8:6000::/40,AMAZON,us-east-2,,AWS,6
 2600:1ff6:6000::/40,AMAZON,us-east-2,,AWS,6
 2600:f008:200::/40,AMAZON,eu-south-2,,AWS,6
+2600:f0f0:c01:200::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f1:41c0::/42,AMAZON,eu-west-1,,AWS,6
 2606:7b40:10ff:9000::/56,AMAZON,us-west-2,,AWS,6
 2606:7b40:1a3f:c200::/60,AMAZON,us-west-2,,AWS,6
@@ -128669,6 +128687,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:da24:8000::/36,AMAZON,ap-southeast-7,,AWS,6
 2406:daf8:6000::/40,AMAZON,ap-northeast-3,,AWS,6
 2600:1f36:ec00::/40,AMAZON,sa-west-1,,AWS,6
+2600:f0f0:c00:300::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f0:e1d::/48,AMAZON,eu-west-1,,AWS,6
 2600:f0f1:8a::/48,AMAZON,me-central-1,,AWS,6
 2620:107:4000:8400::/56,AMAZON,mx-central-1,,AWS,6
@@ -128778,6 +128797,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2400:7fc0:3000::/40,AMAZON,cn-north-1,,AWS,6
 2406:daf8:8800::/40,AMAZON,ap-southeast-1,,AWS,6
 2600:f0f0:400::/44,AMAZON,us-gov-east-1,,AWS,6
+2600:f0f0:c01:100::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f0:552d::/48,AMAZON,me-south-1,,AWS,6
 2600:f0f2:7020::/48,AMAZON,ca-west-1,,AWS,6
 2a05:d06f:e000::/40,AMAZON,me-south-1,,AWS,6
@@ -128884,6 +128904,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:dabb:4800::/40,AMAZON,ap-southeast-7,,AWS,6
 2600:1f01:4800::/47,AMAZON,ap-south-1,,AWS,6
 2600:1fe8:2000::/40,AMAZON,us-gov-west-1,,AWS,6
+2600:f0f0:c00:600::/56,AMAZON,GLOBAL,,AWS,6
 2606:f40:1800::/40,AMAZON,eu-central-1,,AWS,6
 2606:f40:a100::/40,AMAZON,eu-south-2,,AWS,6
 2606:7b40:1a4f:4000::/60,AMAZON,us-east-2,,AWS,6
@@ -128909,6 +128930,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1ffd:803f::/48,AMAZON,us-east-1,,AWS,6
 2600:f0f0:0:200::/62,AMAZON,us-east-1,,AWS,6
 2600:f0f0:80::/48,AMAZON,us-east-1,,AWS,6
+2600:f0f0:c00:8100::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f1:4300::/42,AMAZON,ap-northeast-2,,AWS,6
 2606:f40:4300::/40,AMAZON,eu-central-1,,AWS,6
 2606:7b40:1000:62a0::/60,AMAZON,us-east-2,,AWS,6
@@ -128970,6 +128992,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:daf0:c000::/40,AMAZON,ap-southeast-2,,AWS,6
 2600:1f60:7400::/40,AMAZON,mx-central-1,,AWS,6
 2600:f00e:600::/40,AMAZON,eu-central-1,,AWS,6
+2600:f0f0:c00:400::/56,AMAZON,GLOBAL,,AWS,6
 2606:7b40:10ff:a000::/56,AMAZON,us-west-2,,AWS,6
 2a05:d032:1000::/40,AMAZON,eu-south-2,,AWS,6
 2a05:d06a:9000::/40,AMAZON,eu-central-2,,AWS,6
@@ -129036,6 +129059,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1fba:800::/40,AMAZON,us-south-1,,AWS,6
 2600:1fba:6000::/40,AMAZON,us-east-2,,AWS,6
 2600:1fe9:800::/40,AMAZON,us-south-1,,AWS,6
+2600:f0f0:c00:8300::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f0:6101::/48,AMAZON,us-east-1,,AWS,6
 2600:f0f0:610c::/48,AMAZON,sa-east-1,,AWS,6
 2600:f0f0:c118::/48,AMAZON,ap-southeast-5,,AWS,6
@@ -129078,6 +129102,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2a05:d033:8000::/40,AMAZON,eu-west-1,,AWS,6
 2001:3fc7:f800::/40,AMAZON,eusc-de-east-1,,AWS,6
 2600:1f70:ec00::/40,AMAZON,sa-west-1,,AWS,6
+2600:f0f0:c00:8900::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0fb:c0ff::/56,AMAZON,us-east-1,,AWS,6
 2a01:578:0:12::/64,AMAZON,eu-west-2,,AWS,6
 2a05:d040:b000::/40,AMAZON,eu-central-1,,AWS,6
@@ -129196,6 +129221,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1f2c:c000::/36,AMAZON,us-east-1,,AWS,6
 2600:1ff0:a400::/40,AMAZON,ca-west-1,,AWS,6
 2600:f000:8000::/39,AMAZON,us-west-2,,AWS,6
+2600:f0f0:c00:8400::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f0:1127::/48,AMAZON,eu-north-1,,AWS,6
 2600:f0f0:c12d::/48,AMAZON,us-east-2,,AWS,6
 2606:7b40:10ff:a200::/60,AMAZON,us-west-2,,AWS,6
@@ -129374,6 +129400,8 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:daef:c000::/40,AMAZON,ap-southeast-2,,AWS,6
 2406:dafa:4000::/40,AMAZON,ap-northeast-1,,AWS,6
 2600:f0f0:731::/48,AMAZON,ap-southeast-1,,AWS,6
+2600:f0f0:c00:700::/56,AMAZON,GLOBAL,,AWS,6
+2600:f0f0:c01:400::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f0:c128::/48,AMAZON,eu-south-2,,AWS,6
 2600:f0f1:4440::/42,AMAZON,ap-northeast-1,,AWS,6
 2a05:d038:8000::/40,AMAZON,eu-west-1,,AWS,6
@@ -129409,6 +129437,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1f00:8000::/40,AMAZON,us-east-1,,AWS,6
 2600:1f26:8000::/36,AMAZON,us-east-2,,AWS,6
 2600:f0f0:22::/47,AMAZON,us-east-1,,AWS,6
+2600:f0f0:c01:600::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f0:c145::/48,AMAZON,ap-southeast-2,,AWS,6
 2a05:d05b:1000::/40,AMAZON,eu-south-2,,AWS,6
 2400:7fc0::/40,AMAZON,cn-north-1,,AWS,6
@@ -129432,6 +129461,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:da13::/36,AMAZON,ap-northeast-1,,AWS,6
 2600:1f15:c000::/36,AMAZON,us-east-1,,AWS,6
 2600:1ff9:8000::/39,AMAZON,us-east-1,,AWS,6
+2600:f0f0:c00:100::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f2:701c::/48,AMAZON,eu-west-3,,AWS,6
 2a05:d031:4000::/40,AMAZON,eu-central-1,,AWS,6
 2a05:d068:2000::/40,AMAZON,eu-west-3,,AWS,6
@@ -129507,6 +129537,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1f01:491a::/47,AMAZON,us-west-2,,AWS,6
 2600:1fe9:1000::/40,AMAZON,ca-central-1,,AWS,6
 2600:1ffe:5000::/40,AMAZON,us-gov-east-1,,AWS,6
+2600:f0f0:c01:300::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f0:6121::/48,AMAZON,eu-central-2,,AWS,6
 2600:f0f0:8150::/48,AMAZON,sa-east-1,,AWS,6
 2600:1f01:4908::/47,AMAZON,ap-northeast-1,,AWS,6
@@ -129619,6 +129650,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:da30:4800::/40,AMAZON,ap-southeast-7,,AWS,6
 2600:1fa0:8000::/39,AMAZON,us-east-1,,AWS,6
 2600:1fb9:4000::/39,AMAZON,us-west-2,,AWS,6
+2600:f0f0:c00:800::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f0:e24::/48,AMAZON,ap-northeast-1,,AWS,6
 2600:f0f0:1120::/48,AMAZON,us-east-2,,AWS,6
 2600:f0f1:86::/48,AMAZON,me-south-1,,AWS,6
@@ -129642,6 +129674,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1f01:4844::/47,AMAZON,us-east-2,,AWS,6
 2600:1fa0:c000::/40,AMAZON,us-west-1,,AWS,6
 2600:f004:8000::/40,AMAZON,ap-southeast-1,,AWS,6
+2600:f0f0:cf8:e00::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f0:553e::/48,AMAZON,ap-southeast-1,,AWS,6
 2605:9cc0:1ff0::/56,AMAZON,us-east-1,,AWS,6
 2605:9cc0:1ff0:2800::/56,AMAZON,GLOBAL,,AWS,6
@@ -129723,6 +129756,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1fb9:7400::/40,AMAZON,mx-central-1,,AWS,6
 2600:1ffd:831b::/48,AMAZON,us-east-2,,AWS,6
 2600:f001::/40,AMAZON,us-east-2,,AWS,6
+2600:f0f0:cf8:c00::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f2:7019::/48,AMAZON,ap-southeast-2,,AWS,6
 2606:f40:4700::/40,AMAZON,us-east-1,,AWS,6
 2a05:d06f:6000::/40,AMAZON,eu-north-1,,AWS,6
@@ -129817,6 +129851,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1f21:4000::/36,AMAZON,us-east-1,,AWS,6
 2600:1ff2:ec00::/40,AMAZON,sa-west-1,,AWS,6
 2600:1ff6:800::/40,AMAZON,us-south-1,,AWS,6
+2600:f0f0:c01:500::/56,AMAZON,GLOBAL,,AWS,6
 2605:9cc0:1ff0:7200::/56,AMAZON,GLOBAL,,AWS,6
 2606:7b40:1b0c:200::/56,AMAZON,eu-central-1,,AWS,6
 2a01:578:3::/48,AMAZON,eu-west-1,,AWS,6
@@ -129862,6 +129897,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1fe8:800::/40,AMAZON,us-south-1,,AWS,6
 2600:f0f0:1:1400::/56,AMAZON,ap-southeast-2,,AWS,6
 2600:f0f0:730::/48,AMAZON,ap-southeast-1,,AWS,6
+2600:f0f0:c00:8000::/56,AMAZON,GLOBAL,,AWS,6
 2600:f0f1:4340::/42,AMAZON,ap-northeast-3,,AWS,6
 2600:f0f2:7016::/48,AMAZON,ap-northeast-1,,AWS,6
 2606:f40:fffb::/48,AMAZON,eu-south-2,,AWS,6
@@ -130308,6 +130344,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1ff4:7400::/40,S3,mx-central-1,,AWS,6
 2406:da60:b000::/40,S3,ap-south-2,,AWS,6
 2600:1ff9:2c00::/40,S3,us-east-1,,AWS,6
+2600:f0f0:6127::/48,S3,us-east-1,,AWS,6
 2a05:d06f:5000::/40,S3,il-central-1,,AWS,6
 2a05:d079:a000::/40,S3,eu-south-1,,AWS,6
 2600:1fb9:5000::/40,S3,us-gov-east-1,,AWS,6
@@ -130905,6 +130942,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2a05:d07d:4000::/40,EC2,eu-central-1,,AWS,6
 2406:da1b::/36,EC2,ap-south-2,,AWS,6
 2406:daba:1000::/40,EC2,af-south-1,,AWS,6
+2600:f0f0:c00:8600::/56,EC2,GLOBAL,,AWS,6
 2600:f0f0:610e::/48,EC2,ap-southeast-1,,AWS,6
 2600:f0f0:c138::/48,EC2,eu-west-1,,AWS,6
 2600:f0f2:7017::/48,EC2,us-west-2,,AWS,6
@@ -130916,6 +130954,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1f19:8000::/36,EC2,us-east-1,,AWS,6
 2600:1feb:4000::/39,EC2,us-west-2,,AWS,6
 2600:1ff0:7400::/40,EC2,mx-central-1,,AWS,6
+2600:f0f0:c00:8500::/56,EC2,GLOBAL,,AWS,6
 2600:f0fb:f10d::/48,EC2,ap-south-1,,AWS,6
 2605:b140:9803::/48,EC2,us-east-2,,AWS,6
 2606:7b40:1b0f:800::/56,EC2,us-east-1,,AWS,6
@@ -130970,6 +131009,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2404:c2c0:111::/48,EC2,cn-northwest-1,,AWS,6
 2406:daf3:4000::/40,EC2,ap-northeast-1,,AWS,6
 2600:1f15::/36,EC2,us-gov-east-1,,AWS,6
+2600:f0f0:c01:900::/56,EC2,GLOBAL,,AWS,6
 2600:f0f0:6104::/48,EC2,us-west-2,,AWS,6
 2600:f0f1:83::/48,EC2,ap-northeast-3,,AWS,6
 2605:b140:9800::/48,EC2,us-west-1,,AWS,6
@@ -130977,6 +131017,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1f33:7400::/40,EC2,mx-central-1,,AWS,6
 2600:1fe8:1000::/40,EC2,ca-central-1,,AWS,6
 2600:1ffd:80a7::/48,EC2,eu-central-1,,AWS,6
+2600:f0f0:c00:900::/56,EC2,GLOBAL,,AWS,6
 2a05:d074:9000::/40,EC2,eu-central-2,,AWS,6
 2001:3fc7:1800::/40,EC2,eusc-de-east-1,,AWS,6
 2600:1ff2:800::/40,EC2,us-south-1,,AWS,6
@@ -131078,6 +131119,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1fbb:1000::/40,EC2,ca-central-1,,AWS,6
 2600:9000:520b::/48,EC2,eu-central-1,,AWS,6
 2600:9000:520c::/48,EC2,eu-west-2,,AWS,6
+2600:f0f0:c00:8800::/56,EC2,GLOBAL,,AWS,6
 2606:7b40:10ff:60::/59,EC2,af-south-1,,AWS,6
 2a05:d033:e000::/40,EC2,me-south-1,,AWS,6
 2406:da33:8800::/40,EC2,ap-southeast-1,,AWS,6
@@ -131121,6 +131163,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:da38:2000::/40,EC2,ap-northeast-2,,AWS,6
 2406:da38:4800::/40,EC2,ap-southeast-7,,AWS,6
 2600:1f18::/33,EC2,us-east-1,,AWS,6
+2600:f0f0:c01:800::/56,EC2,GLOBAL,,AWS,6
 2600:f0f3:f010:200::/56,EC2,us-west-1,,AWS,6
 2606:7b40:1a49:340::/60,EC2,sa-east-1,,AWS,6
 2606:7b40:1b0d:c000::/56,EC2,eu-west-3,,AWS,6
@@ -131319,6 +131362,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:daba:2000::/40,EC2,ap-northeast-2,,AWS,6
 2600:1f33:5000::/40,EC2,us-gov-east-1,,AWS,6
 2600:f0f0:85::/48,EC2,us-west-2,,AWS,6
+2600:f0f0:c00:200::/56,EC2,GLOBAL,,AWS,6
 2600:f0fb:f106::/48,EC2,ap-east-1,,AWS,6
 2606:f40:ffe8::/48,EC2,eu-west-2,,AWS,6
 2606:7b40:300a::/56,EC2,us-west-2,,AWS,6
@@ -131430,6 +131474,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:daf6:4000::/40,EC2,ap-northeast-1,,AWS,6
 2600:1f36:800::/40,EC2,us-south-1,,AWS,6
 2600:1fb9:c000::/40,EC2,us-west-1,,AWS,6
+2600:f0f0:c01::/56,EC2,GLOBAL,,AWS,6
 2600:f0f0:410c::/48,EC2,sa-east-1,,AWS,6
 2600:f0f0:4200::/40,EC2,us-east-2,,AWS,6
 2600:f0f0:8104::/48,EC2,ap-southeast-7,,AWS,6
@@ -131576,12 +131621,15 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:daff:2000::/40,EC2,ap-northeast-2,,AWS,6
 240f:8014::/36,EC2,cn-northwest-1,,AWS,6
 2600:1f00:ec00::/40,EC2,sa-west-1,,AWS,6
+2600:f0f0:c00:8700::/56,EC2,GLOBAL,,AWS,6
 2600:f0f0:1101::/48,EC2,ap-northeast-1,,AWS,6
 2600:f0f0:610f::/48,EC2,ap-southeast-2,,AWS,6
 2606:7b40:1a1f:c000::/60,EC2,us-west-2,,AWS,6
 2a05:d01b::/36,EC2,eu-central-1,,AWS,6
 2600:1f30:6000::/40,EC2,us-east-2,,AWS,6
 2600:1fe9:ec00::/40,EC2,sa-west-1,,AWS,6
+2600:f0f0:c00:500::/56,EC2,GLOBAL,,AWS,6
+2600:f0f0:cf8:d00::/56,EC2,GLOBAL,,AWS,6
 2a05:d031:e000::/40,EC2,me-south-1,,AWS,6
 2404:c2c0:8000::/36,EC2,cn-northwest-1,,AWS,6
 2600:1fef:c000::/40,EC2,us-west-1,,AWS,6
@@ -131752,6 +131800,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:da60:b000::/40,EC2,ap-south-2,,AWS,6
 2406:dabb:7000::/40,EC2,me-central-1,,AWS,6
 2600:1ff2:6000::/40,EC2,us-east-2,,AWS,6
+2600:f0f0:6127::/48,EC2,us-east-1,,AWS,6
 2600:f0f0:c11b::/48,EC2,eu-south-1,,AWS,6
 2600:f0f0:c11c::/48,EC2,ap-northeast-1,,AWS,6
 2600:f0f0:c123::/48,EC2,ap-southeast-2,,AWS,6
@@ -131847,6 +131896,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:daf3:f000::/40,EC2,ap-southeast-4,,AWS,6
 2600:1fef:2000::/40,EC2,us-gov-west-1,,AWS,6
 2600:f00c::/39,EC2,us-east-1,,AWS,6
+2600:f0f0:c01:700::/56,EC2,GLOBAL,,AWS,6
 2600:f0f0:e28::/48,EC2,ap-northeast-3,,AWS,6
 2600:f0f0:c000::/48,EC2,us-east-1,,AWS,6
 2a05:d031:2000::/40,EC2,eu-west-3,,AWS,6
@@ -131974,12 +132024,14 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:daf2:8800::/40,EC2,ap-southeast-1,,AWS,6
 2406:daf6:c800::/40,EC2,ap-east-2,,AWS,6
 2600:1fb9:ec00::/40,EC2,sa-west-1,,AWS,6
+2600:f0f0:c00::/56,EC2,GLOBAL,,AWS,6
 2600:f0f0:e04::/48,EC2,me-south-1,,AWS,6
 2600:f0f0:5522::/48,EC2,sa-east-1,,AWS,6
 2600:f0f0:5538::/48,EC2,ap-northeast-3,,AWS,6
 2600:f0f0:c132::/48,EC2,us-west-1,,AWS,6
 2600:f0fb:f109::/48,EC2,me-central-1,,AWS,6
 2600:1f1e::/36,EC2,sa-east-1,,AWS,6
+2600:f0f0:c00:8200::/56,EC2,GLOBAL,,AWS,6
 2600:f0f2:701e::/48,EC2,ca-central-1,,AWS,6
 2606:f40:fff9::/48,EC2,eu-central-1,,AWS,6
 2606:7b40:1000:7270::/60,EC2,us-west-2,,AWS,6
@@ -131999,6 +132051,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1fe8:6000::/40,EC2,us-east-2,,AWS,6
 2600:1ff6:6000::/40,EC2,us-east-2,,AWS,6
 2600:f008:200::/40,EC2,eu-south-2,,AWS,6
+2600:f0f0:c01:200::/56,EC2,GLOBAL,,AWS,6
 2600:f0f1:41c0::/42,EC2,eu-west-1,,AWS,6
 2606:7b40:10ff:9000::/56,EC2,us-west-2,,AWS,6
 2606:7b40:1a3f:c200::/60,EC2,us-west-2,,AWS,6
@@ -132052,6 +132105,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2a05:d06f:9000::/40,EC2,eu-central-2,,AWS,6
 2406:da24:8000::/36,EC2,ap-southeast-7,,AWS,6
 2600:1f36:ec00::/40,EC2,sa-west-1,,AWS,6
+2600:f0f0:c00:300::/56,EC2,GLOBAL,,AWS,6
 2600:f0f0:e1d::/48,EC2,eu-west-1,,AWS,6
 2600:f0f1:8a::/48,EC2,me-central-1,,AWS,6
 2406:da36:4000::/40,EC2,ap-northeast-1,,AWS,6
@@ -132135,6 +132189,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2a05:d074:a000::/40,EC2,eu-south-1,,AWS,6
 2400:7fc0:3000::/40,EC2,cn-north-1,,AWS,6
 2600:f0f0:400::/44,EC2,us-gov-east-1,,AWS,6
+2600:f0f0:c01:100::/56,EC2,GLOBAL,,AWS,6
 2600:f0f0:552d::/48,EC2,me-south-1,,AWS,6
 2600:f0f2:7020::/48,EC2,ca-west-1,,AWS,6
 2a05:d06f:e000::/40,EC2,me-south-1,,AWS,6
@@ -132224,6 +132279,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2606:7b40:1a4f:4200::/60,EC2,us-east-2,,AWS,6
 2406:dabb:4800::/40,EC2,ap-southeast-7,,AWS,6
 2600:1fe8:2000::/40,EC2,us-gov-west-1,,AWS,6
+2600:f0f0:c00:600::/56,EC2,GLOBAL,,AWS,6
 2606:f40:1800::/40,EC2,eu-central-1,,AWS,6
 2606:f40:a100::/40,EC2,eu-south-2,,AWS,6
 2606:7b40:1a4f:4000::/60,EC2,us-east-2,,AWS,6
@@ -132239,6 +132295,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1ffd:803f::/48,EC2,us-east-1,,AWS,6
 2600:f0f0:0:200::/62,EC2,us-east-1,,AWS,6
 2600:f0f0:80::/48,EC2,us-east-1,,AWS,6
+2600:f0f0:c00:8100::/56,EC2,GLOBAL,,AWS,6
 2600:f0f1:4300::/42,EC2,ap-northeast-2,,AWS,6
 2606:f40:4300::/40,EC2,eu-central-1,,AWS,6
 2606:7b40:1000:62a0::/60,EC2,us-east-2,,AWS,6
@@ -132285,6 +132342,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:daf0:c000::/40,EC2,ap-southeast-2,,AWS,6
 2600:1f60:7400::/40,EC2,mx-central-1,,AWS,6
 2600:f00e:600::/40,EC2,eu-central-1,,AWS,6
+2600:f0f0:c00:400::/56,EC2,GLOBAL,,AWS,6
 2606:7b40:10ff:a000::/56,EC2,us-west-2,,AWS,6
 2620:108:d00f::/64,EC2,us-gov-west-1,,AWS,6
 2a05:d032:1000::/40,EC2,eu-south-2,,AWS,6
@@ -132342,6 +132400,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1fba:800::/40,EC2,us-south-1,,AWS,6
 2600:1fba:6000::/40,EC2,us-east-2,,AWS,6
 2600:1fe9:800::/40,EC2,us-south-1,,AWS,6
+2600:f0f0:c00:8300::/56,EC2,GLOBAL,,AWS,6
 2600:f0f0:6101::/48,EC2,us-east-1,,AWS,6
 2600:f0f0:610c::/48,EC2,sa-east-1,,AWS,6
 2600:f0f0:c118::/48,EC2,ap-southeast-5,,AWS,6
@@ -132377,6 +132436,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2a05:d033:8000::/40,EC2,eu-west-1,,AWS,6
 2001:3fc7:f800::/40,EC2,eusc-de-east-1,,AWS,6
 2600:1f70:ec00::/40,EC2,sa-west-1,,AWS,6
+2600:f0f0:c00:8900::/56,EC2,GLOBAL,,AWS,6
 2600:f0fb:c0ff::/56,EC2,us-east-1,,AWS,6
 2a05:d040:b000::/40,EC2,eu-central-1,,AWS,6
 2406:daef:8000::/40,EC2,ap-southeast-1,,AWS,6
@@ -132472,6 +132532,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1f2c:c000::/36,EC2,us-east-1,,AWS,6
 2600:1ff0:a400::/40,EC2,ca-west-1,,AWS,6
 2600:f000:8000::/39,EC2,us-west-2,,AWS,6
+2600:f0f0:c00:8400::/56,EC2,GLOBAL,,AWS,6
 2600:f0f0:1127::/48,EC2,eu-north-1,,AWS,6
 2600:f0f0:c12d::/48,EC2,us-east-2,,AWS,6
 2606:7b40:10ff:a200::/60,EC2,us-west-2,,AWS,6
@@ -132617,6 +132678,8 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:dae8:8800::/40,EC2,ap-southeast-1,,AWS,6
 2406:daef:c000::/40,EC2,ap-southeast-2,,AWS,6
 2600:f0f0:731::/48,EC2,ap-southeast-1,,AWS,6
+2600:f0f0:c00:700::/56,EC2,GLOBAL,,AWS,6
+2600:f0f0:c01:400::/56,EC2,GLOBAL,,AWS,6
 2600:f0f0:c128::/48,EC2,eu-south-2,,AWS,6
 2600:f0f1:4440::/42,EC2,ap-northeast-1,,AWS,6
 2a05:d038:8000::/40,EC2,eu-west-1,,AWS,6
@@ -132642,6 +132705,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1f00:8000::/40,EC2,us-east-1,,AWS,6
 2600:1f26:8000::/36,EC2,us-east-2,,AWS,6
 2600:f0f0:22::/47,EC2,us-east-1,,AWS,6
+2600:f0f0:c01:600::/56,EC2,GLOBAL,,AWS,6
 2600:f0f0:c145::/48,EC2,ap-southeast-2,,AWS,6
 2a05:d05b:1000::/40,EC2,eu-south-2,,AWS,6
 2400:7fc0::/40,EC2,cn-north-1,,AWS,6
@@ -132660,6 +132724,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2001:3fc6:100::/48,EC2,eusc-de-east-1,,AWS,6
 2406:da13::/36,EC2,ap-northeast-1,,AWS,6
 2600:1f15:c000::/36,EC2,us-east-1,,AWS,6
+2600:f0f0:c00:100::/56,EC2,GLOBAL,,AWS,6
 2600:f0f2:701c::/48,EC2,eu-west-3,,AWS,6
 2a05:d031:4000::/40,EC2,eu-central-1,,AWS,6
 2a05:d068:2000::/40,EC2,eu-west-3,,AWS,6
@@ -132721,6 +132786,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2406:daea:800::/40,EC2,ap-southeast-5,,AWS,6
 2406:daf2:e000::/40,EC2,ap-east-1,,AWS,6
 2600:1fe9:1000::/40,EC2,ca-central-1,,AWS,6
+2600:f0f0:c01:300::/56,EC2,GLOBAL,,AWS,6
 2600:f0f0:6121::/48,EC2,eu-central-2,,AWS,6
 2600:f0f0:8150::/48,EC2,sa-east-1,,AWS,6
 2600:1f70:e000::/40,EC2,sa-east-1,,AWS,6
@@ -132810,6 +132876,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2606:f40:ffeb::/48,EC2,us-west-1,,AWS,6
 2406:da30:4800::/40,EC2,ap-southeast-7,,AWS,6
 2600:1fb9:4000::/39,EC2,us-west-2,,AWS,6
+2600:f0f0:c00:800::/56,EC2,GLOBAL,,AWS,6
 2600:f0f0:e24::/48,EC2,ap-northeast-1,,AWS,6
 2600:f0f0:1120::/48,EC2,us-east-2,,AWS,6
 2600:f0f1:86::/48,EC2,me-south-1,,AWS,6
@@ -132827,6 +132894,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2606:7b40:10ff:d230::/60,EC2,us-west-2,,AWS,6
 2406:daff:800::/40,EC2,ap-southeast-5,,AWS,6
 2600:f004:8000::/40,EC2,ap-southeast-1,,AWS,6
+2600:f0f0:cf8:e00::/56,EC2,GLOBAL,,AWS,6
 2600:f0f0:553e::/48,EC2,ap-southeast-1,,AWS,6
 2605:9cc0:1ff0::/56,EC2,us-east-1,,AWS,6
 2605:9cc0:1ff0:2800::/56,EC2,GLOBAL,,AWS,6
@@ -132896,6 +132964,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1fb9:7400::/40,EC2,mx-central-1,,AWS,6
 2600:1ffd:831b::/48,EC2,us-east-2,,AWS,6
 2600:f001::/40,EC2,us-east-2,,AWS,6
+2600:f0f0:cf8:c00::/56,EC2,GLOBAL,,AWS,6
 2600:f0f2:7019::/48,EC2,ap-southeast-2,,AWS,6
 2606:f40:4700::/40,EC2,us-east-1,,AWS,6
 2a05:d06f:6000::/40,EC2,eu-north-1,,AWS,6
@@ -132973,6 +133042,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1f21:4000::/36,EC2,us-east-1,,AWS,6
 2600:1ff2:ec00::/40,EC2,sa-west-1,,AWS,6
 2600:1ff6:800::/40,EC2,us-south-1,,AWS,6
+2600:f0f0:c01:500::/56,EC2,GLOBAL,,AWS,6
 2605:9cc0:1ff0:7200::/56,EC2,GLOBAL,,AWS,6
 2606:7b40:1b0c:200::/56,EC2,eu-central-1,,AWS,6
 2a01:578:3::/48,EC2,eu-west-1,,AWS,6
@@ -133007,6 +133077,7 @@ prefix,service,region,networkFeatures,platform,ip_version
 2600:1fe8:800::/40,EC2,us-south-1,,AWS,6
 2600:f0f0:1:1400::/56,EC2,ap-southeast-2,,AWS,6
 2600:f0f0:730::/48,EC2,ap-southeast-1,,AWS,6
+2600:f0f0:c00:8000::/56,EC2,GLOBAL,,AWS,6
 2600:f0f1:4340::/42,EC2,ap-northeast-3,,AWS,6
 2600:f0f2:7016::/48,EC2,ap-northeast-1,,AWS,6
 2606:f40:fffb::/48,EC2,eu-south-2,,AWS,6
